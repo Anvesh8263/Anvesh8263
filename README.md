@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvesh Mangalam</h1>
-<h3 align="center">I'am Anvesh From India, and I do content on Design and Development.I am really enjoy learning languages and framworks like react and CSS.I also Enjoying ui,ux and design in general .A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvesh8263&label=Profile%20views&color=0e75b6&style=flat" alt="anvesh8263" /> </p>
 
