@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvesh8263" alt="anvesh8263" /></a> </p>
 
 - 🔭 I’m currently working on **Student-Teacher Appointment**
-
+- 🔭 Currently I am Learning  **php & React**
 - 📫 How to reach me **@anvesh.mangalam_cs20@gla.ac.in**
 
 <h3 align="left">Connect with me:</h3>
