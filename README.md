@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvesh8263" alt="anvesh8263" /></a> </p>
 
-- 🔭 I’m currently working on **Social Distancing Detection**
+- 🔭 I’m currently working on **Iris Flower Classification**
 
 - 📫 How to reach me **@anvesh.mangalam_cs20@gla.ac.in**
 
