@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on **Conversational Chatbot By Using Machine Learning**
 
+- 🔭 I’m currently working on **Angular Project**
+
 - 📫 How to reach me **@anvesh.mangalam_cs20@gla.ac.in**
 
 <h3 align="left">Connect with me:</h3>
