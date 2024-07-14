@@ -41,7 +41,7 @@ Hi 👋 My name is Anvesh Mangalam
 
 <p align="left"> <a href="https://github.com/Anvesh8263" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/anvesh_mangalam30/?next=%2F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anvesh-mangalam/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+
 
 ### IDE/Editor (s) In Use:
 <img align="left" width="10%" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -50,10 +50,5 @@ Hi 👋 My name is Anvesh Mangalam
 <img align="left" width="10%" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <br>
- 
-
-
-
-<a href="http://www.github.com/Anvesh8263"><img src="https://activity-graph.herokuapp.com/graph?username=Anvesh8263&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Anvesh8263" align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesh8263&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" ><img align="right" width="56%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anvesh8263&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /> </a>
