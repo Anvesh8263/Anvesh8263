@@ -23,11 +23,7 @@ src="https://img.shields.io/github/followers/Anvesh8263?logo=github&style=for-th
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
 - 📫 You can reach me @ anvesh.mangalam_cs20@gla.ac.in or the mail in my Profile.
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+
 
 
 
