@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/Anvesh8263?logo=github&style=for-th
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DSA%20%20Frontend%20|%20Backend%20|%20Web%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Python Developer;Web+Developer;DSA%20%20Frontend%20|%20Backend%20|%20Web%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
